@@ -8,8 +8,7 @@ Pronouns first letter are uppercase
 
 ### Book 1
 
-#### 1 primi contatti
-
+#### 1 primi contatti, comunicativi
 
 ##### 1 ciao e buongiorno
 
@@ -75,4 +74,185 @@ Io sono, italiana. E tu?
 
 ##### 11 Lei è franscese
 
-##### 12 Numeri
+#### 1 primi contatti, grammatica
+
+##### 1 numeri
+
+(Needs "T_09.mp3").
+
+##### 2 qual è il Suo numero di telefono
+
+(Needs "T_10.mp3").
+
+??.\
+??, ??.\
+
+##### 3 che numero è
+
+##### 4 primo incontro
+
+#### 1 primi contatti, videocorso
+
+(Needs NE1G.mp4)
+
+##### 1 prima di guardare il video...
+
+##### 2 guarde il video e respondi alle domande
+
+??\.
+??.
+
+##### 3 Rimetti in ordine le frase di Laura....
+
+??.
+
+##### 4 nel video ci sono tre persone e tro modi di salutarsi...
+
+??\.
+??\.
+??.
+
+##### 5qual è il numero di telefono di Laura
+
+#### 2 lo e gli altri
+
+##### 1 come va
+
+(Needs "T_14.mp3").
+
+??\.
+??\.
+??\.
+??.
+
+??, ??.\
+??, ??
+
+??, ??, ??, ??.
+
+##### 2 piacere, comunicativi
+
+(Needs "T_15.mp3").
+
+??\.
+??.
+
+##### 3 Una mia amica
+
+(Needs "T_16.mp3").
+
+??, ??, ??.
+
+##### 4 Chi è
+
+##### 5 che lingue parla
+
+##### 6 presntazioni
+
+##### 7 che lavoro fa
+
+??, ??, ??, ??.
+
+##### 8 faccio la secetaria
+
+(Needs "T_17.mp3").
+
+??.
+
+##### 9 posti di lavoro
+
+##### 10 che lavoro fa
+
+##### 11 per conoscerci meglio
+
+##### 12 cerco
+
+##### 13 piacere, molto lieto
+
+(Needs "T_18.mp3").
+
+#### 2 lo e gli altri, grammatica
+
+##### 1 l numeri da venti a cento
+
+(Needs "T_19.mp3").
+
+##### 2 che numero è
+
+(Needs "T_20.mp3").
+
+##### 3 quanti anni ha
+
+##### 4 indovina
+
+#### 2 lo e gli altri, videocorso
+
+##### 1 prima di gardare il video...
+
+##### 2 Guarda l´episodio. Latua storia è mmolto differente...
+
+##### 3 indica se le affermazioni sono vere o false...
+
+##### 4 guard il video dal minuto 1´52´...
+
+##### 5 riguarda il video dal mnuto 1´52´...
+
+#### ponto 1
+
+##### gioco
+
+##### Bilancio
+
+##### Progetto
+
+#### 03 Buon appetito, comunicativi
+
+##### 01 Che bevante sono
+
+##### 02 Conosci il nome di altre bevante
+
+##### 03 Con la creama o con la marmellata
+
+##### 04 Ordinare
+
+##### 05 I isgnori desderano
+
+##### 06 Quali piatti conosci
+
+##### 07 In trattoria
+
+##### 08 carne e pesce
+
+##### 09 Al ristorante
+
+##### 10 Che cosa manca sul tavolo
+
+##### 11 Il conto, per favore
+
+##### 12 Ancora qualcosa
+
+##### 13 In che locale mangiano
+
+##### 14 Un invito a cena
+
+##### 15 Stasera facciamo...
+
+#### 03 Buon appetito, grammatica
+
+##### 01 È possibile prenotare un tavolo
+
+##### 02 Tavolo riservato
+
+#### 03 Buon appetito, videocorso
+
+##### 01 Prima diguardare il video...
+
+##### 02 Guarda il video....
+
+##### 03 Oserva i fotogrammi...
+
+##### 04 Inserisci le batture...
+
+##### 05 Nell´episodio trovi espressioni...
+
+
