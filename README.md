@@ -3,10 +3,10 @@
 😊 I'm Lucas, a QA senior localized on Brazil (-3 GTM).\
 👓 I very skilled on testing, documentation and english, I even have a tech graduation and BSTQB certificate.\
 📖 Since tech area is always on change I'm looking more about AI, Automation and 3D.\
-👣 My go-to tools are: VScodium, Cypress, the GIMP, and Blender
+👣 My go-to tools are: llama, VScodium, Cypress, The GIMP, and Blender.\
 🎨 Favorite themes: Solarize Dark, Tomorrow Night, and Kimbie Dark
 
-## Skill
+## Skills
 
 ### Language
 
@@ -22,6 +22,7 @@
 
 ### API
 
+- GraphQL: Moderate
 - Swagger: Basic
 - Postman: Basic
 
@@ -31,5 +32,9 @@
 - Selenium: Moderate
 - Sikuli: Basic
 - Jmeter: Basic
+
+### AI
+
+- Claude: Moderate
 
 👋 I hope to see you around.
