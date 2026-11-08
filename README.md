@@ -36,5 +36,6 @@
 ### AI
 
 - Claude: Moderate
+- Llama: Moderate
 
 👋 I hope to see you around.
