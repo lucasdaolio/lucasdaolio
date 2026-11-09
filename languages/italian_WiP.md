@@ -2,15 +2,18 @@
 
 ## Grammar
 
-Pronouns first letter are uppercase
+"Lui" and "Lei" first letter are always uppercase.\
+Some jobs ends with "e" when not follow by the person name (E.g.: Dottore, Dottor Rans).\
+"di" is prossessive pronow (E.g.: Sono di Genova).
+"l'" is a article used before vowel or semi-vowerl of a single subject, "il", "lo", "la", "gli", "le" is used otherwise depending of gender and number.
 
 ## Nuovo espresso answers
 
 ### Book 1
 
-#### 1 primi contatti, comunicativi
+#### 01 primi contatti, comunicativi
 
-##### 1 ciao e buongiorno
+##### 01 ciao e buongiorno
 
 (Needs "T_02.mp3").
 
@@ -22,7 +25,7 @@ Buongiorno.
 Lei: buongiorno (morning) / buoena sera (night).\ 
 Tu: ciao / ciao.
 
-##### 2 scusi, lei como si chiami
+##### 02 scusi, lei como si chiami
 
 (Needs "T_03.mp3").
 
@@ -32,15 +35,15 @@ chiedi il nome (con il Lei): Lei è <name>.\
 chiedi il nome (con il tu): Tu sei <name>.\
 
 
-##### 3 piaceri
+##### 03 piaceri
 
-##### 4 fare conoscenza
+##### 04 fare conoscenza
 
-##### 5 l´alfabeto
+##### 05 l´alfabeto
 
 (Needs "T_04.mp3").
 
-##### 6 come ciao
+##### 06 come ciao
 
 (Needs "T_05.mp3").
 
@@ -49,18 +52,18 @@ Caffè, gatto, ciao, gelato.
 La "c" si pronuncia davati a ciao e davanti a caffè.\
 La "g" si pronuncia davati a gelato e davanti a gatto.
 
-##### 7 come si scrive
+##### 07 come si scrive
 
 (Needs "T_06.mp3").
 
-##### 8 e lei di dov´è
+##### 08 e lei di dov´è
 
 (Needs "T_07.mp3").
 
 Di dov´è?\
 Di dove sei?
 
-##### 9 ricostruisci i dialoghi
+##### 09 ricostruisci i dialoghi
 
 Sei è svizzera?\
 Si, E Lei è italiana?\
@@ -70,49 +73,51 @@ Io sono, italiana. E tu?
 
 (Needs "T_08.mp3").
 
-??
+Lei, tu, tu, Lei, tu, Lei.
 
 ##### 11 Lei è franscese
 
-#### 1 primi contatti, grammatica
+#### 01 primi contatti, grammatica
 
-##### 1 numeri
+##### 01 numeri
 
 (Needs "T_09.mp3").
 
-##### 2 qual è il Suo numero di telefono
+##### 02 qual è il Suo numero di telefono
 
 (Needs "T_10.mp3").
 
-??.\
-??, ??.\
+7.\
+063426795, 3407621782.
 
-##### 3 che numero è
+##### 03 che numero è
 
-##### 4 primo incontro
+##### 04 primo incontro
 
-#### 1 primi contatti, videocorso
+#### 01 primi contatti, videocorso
 
 (Needs NE1G.mp4)
 
-##### 1 prima di guardare il video...
+##### 01 prima di guardare il video...
 
-##### 2 guarde il video e respondi alle domande
+##### 02 guarde il video e respondi alle domande
 
-??\.
-??.
+Frederico\.
+Australiano di Sidney.
 
-##### 3 Rimetti in ordine le frase di Laura....
+##### 03 Rimetti in ordine le frase di Laura....
 
-??.
+C, A, E, B, D.
 
-##### 4 nel video ci sono tre persone e tro modi di salutarsi...
+##### 04 nel video ci sono tre persone e tro modi di salutarsi...
 
-??\.
-??\.
-??.
+Ehi, Federico! Ciao!\.
+Andrea! Ciao!.
+Io sono Andrea. E tu come ti chiami!\.
 
-##### 5qual è il numero di telefono di Laura
+##### 05 5qual è il numero di telefono di Laura
+
+C.
 
 #### 2 lo e gli altri
 
@@ -120,28 +125,28 @@ Io sono, italiana. E tu?
 
 (Needs "T_14.mp3").
 
-??\.
-??\.
-??\.
-??.
+Bene, grazie\.
+Ah, oggi sto proprio male\.
+Ciao\.
+Buonasera signor Meli.
 
-??, ??.\
-??, ??
+Come sta, come va.\
+Come stai, come va
 
-??, ??, ??, ??.
+Benissimo, Bene, non c'è male, proprio male.
 
 ##### 2 piacere, comunicativi
 
 (Needs "T_15.mp3").
 
-??\.
-??.
+sta\.
+Lei.
 
 ##### 3 Una mia amica
 
 (Needs "T_16.mp3").
 
-??, ??, ??.
+Massimo, Roberto, Susana.
 
 ##### 4 Chi è
 
@@ -151,15 +156,21 @@ Io sono, italiana. E tu?
 
 ##### 7 che lavoro fa
 
-??, ??, ??, ??.
+1B, 2C, 3A, 4D.
 
 ##### 8 faccio la secetaria
 
 (Needs "T_17.mp3").
 
-??.
+Napoli, Bologna.
 
 ##### 9 posti di lavoro
+
+l'operaio.\
+la farmacista\.
+l'insegnante\.
+la commessa\.
+il cuoco
 
 ##### 10 che lavoro fa
 
