@@ -178,9 +178,15 @@ il cuoco
 
 ##### 12 cerco
 
+Werner.\
+Io sono Lucas, vive a Brasille. Io lavoro como QA in tech dept. Piacere.
+
 ##### 13 piacere, molto lieto
 
 (Needs "T_18.mp3").
+
+Aldo parlare italiano e inglese, Rita itaiano spagnolo, e Carlos italiano spanolo.\
+Falso, falso, vere, vero, vero, fals, vero 
 
 #### 2 lo e gli altri, grammatica
 
@@ -188,9 +194,13 @@ il cuoco
 
 (Needs "T_19.mp3").
 
+Vendue, venquattro, vintesse, vintesette, vintenueve, trentcinque, quarentasse, ciquentasette, sessantaotto, settantaquattro, ottantuno, novantatre
+
 ##### 2 che numero è
 
 (Needs "T_20.mp3").
+
+23, 77, 50, 42, 5.
 
 ##### 3 quanti anni ha
 
@@ -200,11 +210,21 @@ il cuoco
 
 ##### 1 prima di gardare il video...
 
+1C, 6B, 7A.
+
 ##### 2 Guarda l´episodio. Latua storia è mmolto differente...
 
 ##### 3 indica se le affermazioni sono vere o false...
 
+Falso, vero, falso, vero, vero.
+
 ##### 4 guard il video dal minuto 1´52´...
+
+?.\
+?.\
+?.\
+?.\
+?.\
 
 ##### 5 riguarda il video dal mnuto 1´52´...
 
@@ -220,9 +240,13 @@ il cuoco
 
 ##### 01 Che bevante sono
 
+il cappuccino, l'aranciata, l'aqua minerale, il bicchiere di latte, l'aperitivo, la birra, lo spumante, la spremuta di pompelmo.
+
 ##### 02 Conosci il nome di altre bevante
 
 ##### 03 Con la creama o con la marmellata
+
+Al ristorante, la mattina.
 
 ##### 04 Ordinare
 
@@ -266,4 +290,74 @@ il cuoco
 
 ##### 05 Nell´episodio trovi espressioni...
 
+#### 04 Tempo livero, comunicazione
+
+##### 01 Che cosa fanno
+
+??\.
+
+##### 02 Di solito faccio sport
+
+##### 03 E voi che cosa fate di solio nel tempo libero
+
+##### 04 Cerca una persona che...
+
+##### 05 Che cosa fai il fine settimana
+
+??\.
+
+##### 06 Sempre, spesso o mai
+
+##### 07 Studio l'italino
+
+??\.
+??\
+
+##### 08 Il mio profilo
+
+##### 09 Fra amici
+
+??\.
+
+##### 10 Le piace
+
+##### 11 Anche a me
+
+??\.
+
+##### 12 Che giorno è oggi
+
+??\.
+
+#### 04 Tempo livero, grammatica
+
+##### 01 Che ora è
+
+##### 02 Sono le
+
+??.
+
+##### 03 E adeso che ore sono
+
+??.
+
+#### 04 Tempo livero, videocorso
+
+##### 01 Prima di guardare...
+
+??.
+
+##### 02 Osserva i fotogrammi...
+
+??.
+
+##### 03 Guarda ancora il...
+
+##### 04 Osserva i forogrammi....
+
+??.
+
+##### 05 Complea il testo con i verbi
+
+??.
 
