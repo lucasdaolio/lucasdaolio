@@ -220,11 +220,11 @@ Falso, vero, falso, vero, vero.
 
 ##### 4 guard il video dal minuto 1´52´...
 
-?.\
-?.\
-?.\
-?.\
-?.\
+Donde dove abito?\
+Lei é italiano?\
+Quanto anni fai?\
+Ho que fai?\
+Tu parla inglese?
 
 ##### 5 riguarda il video dal mnuto 1´52´...
 
@@ -246,6 +246,8 @@ il cappuccino, l'aranciata, l'aqua minerale, il bicchiere di latte, l'aperitivo,
 
 ##### 03 Con la creama o con la marmellata
 
+(Needs "T_24.mp3").
+
 Al ristorante, la mattina.
 
 ##### 04 Ordinare
@@ -254,7 +256,19 @@ Al ristorante, la mattina.
 
 ##### 06 Quali piatti conosci
 
+Proscuitto e foraggio.\
+Spaghetti al frutti.\
+Pollo allo spledo.\
+Sogliola.\
+Patatine fritte.\
+Gelato.
+
 ##### 07 In trattoria
+
+(Needs "T_25.mp3").
+
+si, si, no, si, si, si.\
+Vogliono, preferisce, preferisce, vuoglei, prendere.
 
 ##### 08 carne e pesce
 
@@ -264,17 +278,39 @@ Al ristorante, la mattina.
 
 ##### 11 Il conto, per favore
 
+(Needs "T_26.mp3").
+
+Scusi!\
+Si, dica!\
+per cortesia.\
+grazie.\
+grazie, per favore\
+
 ##### 12 Ancora qualcosa
 
 ##### 13 In che locale mangiano
 
+A, Ristorante de pescatore.\
+B, La zucca magica.\
+C, Trattoria Zia Caterina.\
+D, Ristoranzte Pizzeria Ferilli.
+
 ##### 14 Un invito a cena
+
+(Needs "T_27.mp3").
+
+Macedonia, risotto ai funghi, frittata con le zucchine, formagio.\
+La carne, non anno molto tempo, il pesce,  non sono d'accordo.
 
 ##### 15 Stasera facciamo...
 
 #### 03 Buon appetito, grammatica
 
 ##### 01 È possibile prenotare un tavolo
+
+(Needs "T_28.mp3").
+
+D, C, A, F, E, B.
 
 ##### 02 Tavolo riservato
 
@@ -361,3 +397,37 @@ Al ristorante, la mattina.
 
 ??.
 
+#### 04 Tempo livero, caffè culturale
+
+#### 05 In albergo, comunicazione
+
+##### 01 Che cosa significa
+
+??.
+
+##### 02 L´abergo ideale
+
+??.
+
+##### 03 Una prenotazione
+
+(Needs "T_39.mp3").
+
+??
+##### 05 Avete una camera
+
+??.
+
+##### 06 Checosa c´è
+
+##### 07 Ho un problema
+
+(Needs "T_40.mp3" and "T_41.mp3").
+
+??.
+
+##### 08 Problemi, problemi
+
+##### 09 Un cliente scotento
+
+##### 10 Un messaggio dalle vacanze
