@@ -318,13 +318,33 @@ D, C, A, F, E, B.
 
 ##### 01 Prima diguardare il video...
 
+Pizza, spagetti, pollo, sogliola.
+
 ##### 02 Guarda il video....
 
 ##### 03 Oserva i fotogrammi...
 
+A: Lunch.\
+B:
+- spagheti ai frutti di mare
+- pizza Quattro stagioni
+- cotoletta alla milanese
+- pizza Margherita
+- vino rosso
+
+C:
+- Matteo vuole: spagheti il frutto de mare da manguiare e Birra da bere 
+- Ma prende: pizza Margherita da manguiare e Birra da bere
+- Federico vuole: pizza quattro stagione da manguiare e birra da bere e l'aqua gesata 
+- Ma prende: pizza Margherita da manguiare e Birra e l'aqua narutalle da bere
+
 ##### 04 Inserisci le batture...
 
+4, 5, 2, 1, 3.
+
 ##### 05 Nell´episodio trovi espressioni...
+
+Dai, allora, 
 
 #### 04 Tempo livero, comunicazione
 
