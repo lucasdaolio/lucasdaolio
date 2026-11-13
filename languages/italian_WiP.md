@@ -29,7 +29,7 @@ Tu: ciao / ciao.
 
 (Needs "T_03.mp3").
 
-a, c, b, d
+A, c, b, d
 ti presenti: Buongiorno, sono <name>.\
 chiedi il nome (con il Lei): Lei è <name>.\
 chiedi il nome (con il tu): Tu sei <name>.\
@@ -107,7 +107,7 @@ Australiano di Sidney.
 
 ##### 03 Rimetti in ordine le frase di Laura....
 
-C, A, E, B, D.
+C, a, e, b, d.
 
 ##### 04 nel video ci sono tre persone e tro modi di salutarsi...
 
@@ -162,7 +162,8 @@ Massimo, Roberto, Susana.
 
 (Needs "T_17.mp3").
 
-Napoli, Bologna.
+Napoli, Bologna.\
+sono, sei, siamo, siete. 
 
 ##### 9 posti di lavoro
 
@@ -248,7 +249,8 @@ il cappuccino, l'aranciata, l'aqua minerale, il bicchiere di latte, l'aperitivo,
 
 (Needs "T_24.mp3").
 
-Al ristorante, la mattina.
+Al ristorante, la mattina.\
+Prendo, prende.
 
 ##### 04 Ordinare
 
@@ -310,7 +312,7 @@ La carne, non anno molto tempo, il pesce,  non sono d'accordo.
 
 (Needs "T_28.mp3").
 
-D, C, A, F, E, B.
+D, c, a, f, e, b.
 
 ##### 02 Tavolo riservato
 
@@ -344,15 +346,21 @@ C:
 
 ##### 05 Nell´episodio trovi espressioni...
 
-Dai, allora, 
+Dai, allora, alora, alora.\
+A5, b3, c7, d1, e2, f6, g4.
 
 #### 04 Tempo livero, comunicazione
 
 ##### 01 Che cosa fanno
 
-??\.
+A6, b5, c2, d8, e10, f1, g3, h4, i9, l7\.
 
 ##### 02 Di solito faccio sport
+
+(Needs "T_31.mp3").
+
+gioco, leggo, dormo, ando.\
+giochi.
 
 ##### 03 E voi che cosa fate di solio nel tempo libero
 
@@ -360,42 +368,55 @@ Dai, allora,
 
 ##### 05 Che cosa fai il fine settimana
 
-??\.
+(Needs "T_32.mp3").
+
+Vero, falso.\
+usco, usciamo.
+
+sempre, qualche volta.
 
 ##### 06 Sempre, spesso o mai
 
 ##### 07 Studio l'italino
 
-??\.
-??\
+Cesar, Anne, Cesar, Anne, Olga, Anne\.
+giocare a calcio, suonare il pianoforte\
 
 ##### 08 Il mio profilo
 
 ##### 09 Fra amici
 
-??\.
+(Needs "T_33.mp3").
+
+ti piace, Mi piacciono, odio, A me, piace\.
 
 ##### 10 Le piace
 
 ##### 11 Anche a me
 
-??\.
-
 ##### 12 Che giorno è oggi
 
-??\.
+(Needs "T_33.mp3").
+
+lezione di tennis sabado pomeriggio.\
+curso di tango sabado sera\.
+curso di cusina domenicapomeriggio.\
+cinema domenica sera.\
+curso di guitarra venerdi pomeriggio.
 
 #### 04 Tempo livero, grammatica
 
 ##### 01 Che ora è
 
+(Needs "T_33.mp3").
+
 ##### 02 Sono le
 
-??.
+2e, 3f, 4g, 5b, 6d, 7c, 8b.
 
 ##### 03 E adeso che ore sono
 
-??.
+sono le cinque e dieci, sono le una, sono le quatro meno dieci, sono undici e quindici.
 
 #### 04 Tempo livero, videocorso
 
