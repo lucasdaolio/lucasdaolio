@@ -409,6 +409,7 @@ curso di guitarra venerdi pomeriggio.
 ##### 01 Che ora è
 
 (Needs "T_33.mp3").
+F.
 
 ##### 02 Sono le
 
@@ -422,29 +423,37 @@ sono le cinque e dieci, sono le una, sono le quatro meno dieci, sono undici e qu
 
 ##### 01 Prima di guardare...
 
-??.
+il un restorante.\
+teste de una rivista.
 
 ##### 02 Osserva i fotogrammi...
 
-??.
+3a, 2b.
 
 ##### 03 Guarda ancora il...
 
+--, sempre spesso;\
+non fa mai sport, giocar cartio con il amigo;\
+non cocina mai;\
+sempre, 2 tu 3 hora giorno;\
+
 ##### 04 Osserva i forogrammi....
 
-??.
+1b, 2a, 3c
 
 ##### 05 Complea il testo con i verbi
 
-??.
+Sono, gioca, legge, chiede, esce, piace, vuole, risponde, continua, fa, cucina, sta, arriva, chiede, vogliano, prenda, è, prendi
 
 #### 04 Tempo livero, caffè culturale
+
+Colosseo, Galleria degli Uffizi, Pompei, duomo, Piazza San Marco, Cappella Sistina.
 
 #### 05 In albergo, comunicazione
 
 ##### 01 Che cosa significa
 
-??.
+G, d, f, a, c, e, b, h, i.
 
 ##### 02 L´abergo ideale
 
