@@ -457,16 +457,19 @@ G, d, f, a, c, e, b, h, i.
 
 ##### 02 L´abergo ideale
 
-??.
+Istituto, Villa, Giglio, Villa.\
+Istituto, Istituto, Giglio, Villa, Giglio, 
 
 ##### 03 Una prenotazione
 
 (Needs "T_39.mp3").
 
-??
-##### 05 Avete una camera
+singola, per una notte, 120, é compresa, ha il garage, il numero della carta di credito, al telefono.\
+posso, può, possiamo
 
-??.
+##### 04 Quanto viene la camera
+
+##### 05 Avete una camera
 
 ##### 06 Checosa c´è
 
@@ -474,10 +477,16 @@ G, d, f, a, c, e, b, h, i.
 
 (Needs "T_40.mp3" and "T_41.mp3").
 
-??.
+F, e, a, c, b, d.
 
 ##### 08 Problemi, problemi
 
 ##### 09 Un cliente scotento
 
 ##### 10 Un messaggio dalle vacanze
+
+11 Casevacanza.it
+
+Perfetto per, Forte del, Vista mare, 
+
+12 
