@@ -9,6 +9,19 @@ Some jobs ends with "e" when not follow by the person name (E.g.: Dottore, Dotto
 
 ## Nuovo espresso answers
 
+### Grammar
+
+
+### Vocabulary
+
+l´accendino: isqueiro
+Un attimo: um momento
+Un caffé: expresso
+... americano: ... with hot water
+... correto: ... liquor
+... lungo: ... with double of water
+... macchiato: ... with milk foam
+
 ### Book 1
 
 #### 01 primi contatti, comunicativi
@@ -485,8 +498,50 @@ F, e, a, c, b, d.
 
 ##### 10 Un messaggio dalle vacanze
 
-11 Casevacanza.it
+##### 11 Casevacanza.it
 
-Perfetto per, Forte del, Vista mare, 
+Perfetto per, Forte del, Vista mare, ?.\
+Frebbraio, marzo, aprile, maggio, glugno, luglio, settembre, ottobre.\
+secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo.
 
-12 
+##### 12 In vacanza in Italia
+
+##### 13 In vacanza, ma no in albergo
+
+(Needs "T_40.mp3").
+
+##### 14 Saluti da...
+
+#### 05 In albergo, grammatica
+
+##### 01 I numeri de 100 in poi
+
+(Needs "T_45.mp3").
+
+##### 02 Qual è il nuero sguente
+
+##### 03 La data
+
+#### 05 In albergo, videocorso
+
+##### 01 Prima di guardare...
+
+??.\
+
+##### 02 Guarda di nuovo il... 
+
+??.\
+
+##### 03 Ora osserva le parole...
+
+##### 04 Guard di novo la prima...
+
+#### Ponto 2
+
+#### 05 In giro per l´Italia
+
+##### 01 Il Bel Paese
+
+??.\
+
+##### Fra colleghi
