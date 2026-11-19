@@ -4,23 +4,38 @@
 
 "Lui" and "Lei" first letter are always uppercase.\
 Some jobs ends with "e" when not follow by the person name (E.g.: Dottore, Dottor Rans).\
-"di" is prossessive pronow (E.g.: Sono di Genova).
+"di" is prossessive pronoun (E.g.: Sono di Genova).
 "l'" is a article used before vowel or semi-vowerl of a single subject, "il", "lo", "la", "gli", "le" is used otherwise depending of gender and number.
 
-## Nuovo espresso answers
+## Vocabulary
 
-### Grammar
-
-
-### Vocabulary
-
-l´accendino: isqueiro
-Un attimo: um momento
+l´accendino: lighter
+Un attimo: one moment
 Un caffé: expresso
 ... americano: ... with hot water
 ... correto: ... liquor
 ... lungo: ... with double of water
 ... macchiato: ... with milk foam
+giovanne: young
+capelli: hair
+freddo: cold
+caldo(a): hot 
+scondrino: bill
+un(a) cameriere(a): a waiter
+chiocciola: @
+un cornetto: a croissan
+essere: to be
+fare: to do
+Nuoto: swim
+Palestra: gym
+Regalo: present
+Torta: cake
+Frizzante: sparkling (water)
+sorella: sister
+Panino: sandwich
+Riso: rice
+
+## Nuovo espresso answers
 
 ### Book 1
 
