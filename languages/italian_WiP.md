@@ -34,6 +34,14 @@ Frizzante: sparkling (water)
 sorella: sister
 Panino: sandwich
 Riso: rice
+Dritto: straight
+A sinistra: to the left
+A piedi: by foot
+Accanto: next
+Scandere: climb
+Fermare: stop
+Dovere: shall
+Sapere: to know
 
 ## Nuovo espresso answers
 
@@ -42,8 +50,6 @@ Riso: rice
 #### 01 primi contatti, comunicativi
 
 ##### 01 ciao e buongiorno
-
-(Needs "T_02.mp3").
 
 Buona sera dottore.\
 Ciao, Anna.\
@@ -54,8 +60,6 @@ Lei: buongiorno (morning) / buoena sera (night).\
 Tu: ciao / ciao.
 
 ##### 02 scusi, lei como si chiami
-
-(Needs "T_03.mp3").
 
 A, c, b, d
 ti presenti: Buongiorno, sono <name>.\
@@ -69,11 +73,7 @@ chiedi il nome (con il tu): Tu sei <name>.\
 
 ##### 05 l´alfabeto
 
-(Needs "T_04.mp3").
-
 ##### 06 come ciao
-
-(Needs "T_05.mp3").
 
 Caffè, gatto, ciao, gelato.
 
@@ -82,11 +82,7 @@ La "g" si pronuncia davati a gelato e davanti a gatto.
 
 ##### 07 come si scrive
 
-(Needs "T_06.mp3").
-
 ##### 08 e lei di dov´è
-
-(Needs "T_07.mp3").
 
 Di dov´è?\
 Di dove sei?
@@ -99,8 +95,6 @@ Io sono, italiana. E tu?
 
 ##### 10 tu e Lei
 
-(Needs "T_08.mp3").
-
 Lei, tu, tu, Lei, tu, Lei.
 
 ##### 11 Lei è franscese
@@ -109,11 +103,7 @@ Lei, tu, tu, Lei, tu, Lei.
 
 ##### 01 numeri
 
-(Needs "T_09.mp3").
-
 ##### 02 qual è il Suo numero di telefono
-
-(Needs "T_10.mp3").
 
 7.\
 063426795, 3407621782.
@@ -123,8 +113,6 @@ Lei, tu, tu, Lei, tu, Lei.
 ##### 04 primo incontro
 
 #### 01 primi contatti, videocorso
-
-(Needs NE1G.mp4)
 
 ##### 01 prima di guardare il video...
 
@@ -151,8 +139,6 @@ C.
 
 ##### 1 come va
 
-(Needs "T_14.mp3").
-
 Bene, grazie\.
 Ah, oggi sto proprio male\.
 Ciao\.
@@ -165,14 +151,10 @@ Benissimo, Bene, non c'è male, proprio male.
 
 ##### 2 piacere, comunicativi
 
-(Needs "T_15.mp3").
-
 sta\.
 Lei.
 
 ##### 3 Una mia amica
-
-(Needs "T_16.mp3").
 
 Massimo, Roberto, Susana.
 
@@ -187,8 +169,6 @@ Massimo, Roberto, Susana.
 1B, 2C, 3A, 4D.
 
 ##### 8 faccio la secetaria
-
-(Needs "T_17.mp3").
 
 Napoli, Bologna.\
 sono, sei, siamo, siete. 
@@ -212,8 +192,6 @@ Io sono Lucas, vive a Brasille. Io lavoro como QA in tech dept. Piacere.
 
 ##### 13 piacere, molto lieto
 
-(Needs "T_18.mp3").
-
 Aldo parlare italiano e inglese, Rita itaiano spagnolo, e Carlos italiano spanolo.\
 Falso, falso, vere, vero, vero, fals, vero 
 
@@ -221,13 +199,9 @@ Falso, falso, vere, vero, vero, fals, vero
 
 ##### 1 l numeri da venti a cento
 
-(Needs "T_19.mp3").
-
 Vendue, venquattro, vintesse, vintesette, vintenueve, trentcinque, quarentasse, ciquentasette, sessantaotto, settantaquattro, ottantuno, novantatre
 
 ##### 2 che numero è
-
-(Needs "T_20.mp3").
 
 23, 77, 50, 42, 5.
 
@@ -275,8 +249,6 @@ il cappuccino, l'aranciata, l'aqua minerale, il bicchiere di latte, l'aperitivo,
 
 ##### 03 Con la creama o con la marmellata
 
-(Needs "T_24.mp3").
-
 Al ristorante, la mattina.\
 Prendo, prende.
 
@@ -295,8 +267,6 @@ Gelato.
 
 ##### 07 In trattoria
 
-(Needs "T_25.mp3").
-
 si, si, no, si, si, si.\
 Vogliono, preferisce, preferisce, vuoglei, prendere.
 
@@ -307,8 +277,6 @@ Vogliono, preferisce, preferisce, vuoglei, prendere.
 ##### 10 Che cosa manca sul tavolo
 
 ##### 11 Il conto, per favore
-
-(Needs "T_26.mp3").
 
 Scusi!\
 Si, dica!\
@@ -327,8 +295,6 @@ D, Ristoranzte Pizzeria Ferilli.
 
 ##### 14 Un invito a cena
 
-(Needs "T_27.mp3").
-
 Macedonia, risotto ai funghi, frittata con le zucchine, formagio.\
 La carne, non anno molto tempo, il pesce,  non sono d'accordo.
 
@@ -337,8 +303,6 @@ La carne, non anno molto tempo, il pesce,  non sono d'accordo.
 #### 03 Buon appetito, grammatica
 
 ##### 01 È possibile prenotare un tavolo
-
-(Needs "T_28.mp3").
 
 D, c, a, f, e, b.
 
@@ -385,8 +349,6 @@ A6, b5, c2, d8, e10, f1, g3, h4, i9, l7\.
 
 ##### 02 Di solito faccio sport
 
-(Needs "T_31.mp3").
-
 gioco, leggo, dormo, ando.\
 giochi.
 
@@ -395,8 +357,6 @@ giochi.
 ##### 04 Cerca una persona che...
 
 ##### 05 Che cosa fai il fine settimana
-
-(Needs "T_32.mp3").
 
 Vero, falso.\
 usco, usciamo.
@@ -414,8 +374,6 @@ giocare a calcio, suonare il pianoforte\
 
 ##### 09 Fra amici
 
-(Needs "T_33.mp3").
-
 ti piace, Mi piacciono, odio, A me, piace\.
 
 ##### 10 Le piace
@@ -423,8 +381,6 @@ ti piace, Mi piacciono, odio, A me, piace\.
 ##### 11 Anche a me
 
 ##### 12 Che giorno è oggi
-
-(Needs "T_33.mp3").
 
 lezione di tennis sabado pomeriggio.\
 curso di tango sabado sera\.
@@ -436,7 +392,6 @@ curso di guitarra venerdi pomeriggio.
 
 ##### 01 Che ora è
 
-(Needs "T_33.mp3").
 F.
 
 ##### 02 Sono le
@@ -490,8 +445,6 @@ Istituto, Istituto, Giglio, Villa, Giglio,
 
 ##### 03 Una prenotazione
 
-(Needs "T_39.mp3").
-
 singola, per una notte, 120, é compresa, ha il garage, il numero della carta di credito, al telefono.\
 posso, può, possiamo
 
@@ -502,8 +455,6 @@ posso, può, possiamo
 ##### 06 Checosa c´è
 
 ##### 07 Ho un problema
-
-(Needs "T_40.mp3" and "T_41.mp3").
 
 F, e, a, c, b, d.
 
@@ -523,15 +474,11 @@ secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo.
 
 ##### 13 In vacanza, ma no in albergo
 
-(Needs "T_40.mp3").
-
 ##### 14 Saluti da...
 
 #### 05 In albergo, grammatica
 
 ##### 01 I numeri de 100 in poi
-
-(Needs "T_45.mp3").
 
 ##### 02 Qual è il nuero sguente
 
@@ -553,10 +500,86 @@ secondo, terzo, quarto, quinto, sesto, settimo, ottavo, nono, decimo.
 
 #### Ponto 2
 
-#### 05 In giro per l´Italia
+#### 06 In giro per l´Italia, comunicazione
 
 ##### 01 Il Bel Paese
 
-??.\
+1a, 2b, 3d, 4c, 5e.\
 
-##### Fra colleghi
+##### 02 Fra colleghi
+
+ci, ci.\
+dei, delle
+
+##### 03 Cosa d´è in questa città?
+
+##### 04 Cosa c´è Bologna?
+
+1: una piazza importante
+2: delle torri famose
+3: dei palachi antichi
+
+Lulu82: Andara a Piazza Maggiore, mangari in caffè in un bar, passeggiate soto i portici, guardare le ventrine, manguagre in una delle
+Fede: Andare al cinema o a teatro, leggere, fare jogging, passare un po´ di tempo in relax.
+
+1: Una piazzza importante
+2: Delle torri diffenci
+3: Palachi bianco e nero
+
+##### 06 La mia città
+
+##### 07 All´unfficio informazioni
+
+12, 32.
+
+Devo, so.\
+Deve.
+
+in, alla, alle, alla, alla
+
+##### 09 Alla reception
+
+sa se, mi dispiace, veramente, Peccato, senta, Ah va bene, 
+
+##### 10 Dov´è
+
+##### 11 Dov`è l´ufficio postale
+
+Lá chiesa è fra il miseo e il teatro.\
+L´ufficio postale è 
+Il distributore è
+Il parcheggio è davanti alla scuola.\
+Il bar è accanto alla banca.\
+La fermata dell`autombus è di fronte al supmercato
+
+##### 12 Scusi
+
+##### 13 Una visita a Padova
+
+po´, piedi, 1, C
+
+#### 06 In giro per l´Italia, grammatica
+
+##### 01 A che ora
+
+B, c, d, a.
+
+##### 02 E da voi
+
+#### 06 In giro per l´Italia, videocorso
+
+##### 01 Prima diguardare...
+
+A:
+B:
+C: 2, 1
+
+##### 02 Guarda l´episodio...
+
+##### 03 Nel dialogo...
+
+##### 04 Riodina il dialogo...
+
+##### 05 Che strada denovo...
+
+#### 07 Andiamo in vacanza, comunicazione
