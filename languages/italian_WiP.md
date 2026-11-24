@@ -5,7 +5,8 @@
 "Lui" and "Lei" first letter are always uppercase.\
 Some jobs ends with "e" when not follow by the person name (E.g.: Dottore, Dottor Rans).\
 "di" is prossessive pronoun (E.g.: Sono di Genova).
-"l'" is a article used before vowel or semi-vowerl of a single subject, "il", "lo", "la", "gli", "le" is used otherwise depending of gender and number.
+"l'" is a article used before vowel or semi-vowerl of a single subject, "il", "la", "un", "una" is article for words starting with consonant while "lo", "la", "uno", "una" is for words starting with "s" + consonant
+"Abito a Bologna" means where it lives while "... in ..." means nacionality
 
 ## Vocabulary
 
@@ -20,21 +21,37 @@ giovanne: young
 capelli: hair
 freddo: cold
 caldo(a): hot 
-scondrino: bill
-un(a) cameriere(a): a waiter
-chiocciola: @
-un cornetto: a croissan
-essere: to be
-fare: to do
+Scondrino: receipt, ticket
+Un(a) cameriere(a): a waiter
+Cucchiaio: spoon
+Cucchiaino: tea spoon
+Tovagliolo: napkin
+Bicchiere: glass
+Chiocciola: @
+Un cornetto: a croissan
+Essere: to be
+Fare: to do
 Nuoto: swim
 Palestra: gym
 Regalo: present
-Torta: cake
+Torta: cake, pie
 Frizzante: sparkling (water)
-sorella: sister
+Sorella: sister
 Panino: sandwich
 Riso: rice
+Prende: to take
+Volere: to want
+Mezogiorno: noon
+Leggere: to read
+Uscire: to go out
+Di solito: usually
+Spesso: often
+Qualche volta: sometimes
+spesa: expense
+Doccia: shower
 Dritto: straight
+Albergo: hotel
+colazione: breakfast
 A sinistra: to the left
 A piedi: by foot
 Accanto: next
@@ -42,6 +59,10 @@ Scandere: climb
 Fermare: stop
 Dovere: shall
 Sapere: to know
+Straversa: exist
+Spiaggia: beach
+Nuvoloso: cloudy
+all´aperto: outdoors
 
 ## Nuovo espresso answers
 
@@ -583,3 +604,7 @@ C: 2, 1
 ##### 05 Che strada denovo...
 
 #### 07 Andiamo in vacanza, comunicazione
+
+##### Tante idee per partire
+
+B, c1, 
