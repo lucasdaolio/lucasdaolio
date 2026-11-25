@@ -605,6 +605,42 @@ C: 2, 1
 
 #### 07 Andiamo in vacanza, comunicazione
 
-##### Tante idee per partire
+##### 01 Tante idee per partire
 
-B, c1, 
+B3, c6, d4, e5, f1.\
+1, 6, 4, 5, 2.
+
+##### 02 Una settimana a...
+
+##### 03 In vancanza
+
+Sono arrivata.\
+Ho passato.\
+Ho avuto.\
+Ho vizitato.\
+Ho pranzato.\
+Ho camminato.\
+Sono andata.
+
+Non ho telefonato.\
+Sono saluto.\
+Ho dormito.\
+È stato.\
+Ho passato.\
+Ho fatto.\
+Ho passato.
+
+#### 04 Il passato prossimo
+
+Avere, ho avato.\
+Visitare, ho visitato.\
+Camminare, ho camminato.\
+essere
+.\
+
+dormire, ho dormito.\
+
+Pranzo, ho pranzato.\
+
+andare, sono andata
+Fare, ho fatto

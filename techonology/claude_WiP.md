@@ -56,6 +56,6 @@ SubagentStart / ..Stop; when agent start / stop; log the summary;
 Agent can failure, here is what symphom, cause and correction:
 - Run stop abrutly after model say "complete", fix by using stop_reson is tool_use and finish on end_turn;
 - Tool call repeated until turn call, fix using tool_result with is_error and an instruction;
-- Main chat offupy by file, fix by delegating a read subagent to it tht return the final message;
+- Main chat occupy by file, fix by delegating a read subagent to it tht return the final message;N
 - Agent forget history, fix with memory tool that read before a new task;
 - Early message is ignored after summarization, fix by ading a re-injected confi or enfornce with hook.
