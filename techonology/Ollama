@@ -1,0 +1,9 @@
+# Ollama
+
+## Parmeters
+
+Arquitecture: Structure and goal of the model (LLMA means Large Language Model Meta AI)
+Parameter: Size and bias used for the model to learn (in B size)
+Contex lenght: Amount of Token can process in a single input
+Embedding lenght: The amount of embeeding space it have for text interpretation
+Quantization
