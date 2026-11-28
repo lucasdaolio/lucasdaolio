@@ -11,4 +11,30 @@ Quantization: compress model in exchange of logic (in B)
 Library model, like codeGemma, is a collection of light model for variaty.\
 Visual model, like llava, can view and create visial content.
 
-make "modelFile.md" and star with "From <model>" to make a profile
+### Modelfile
+
+make "ModelFile" and star with:
+"From <model>
+
+PARAMETER temperature <floatTemp>
+
+SYSTEM """
+  You are James a smart assistant that answer succintly
+
+"""
+"
+
+Then type the command `ollama create james -f ./ModelFile` to make a model based on modelfile then `ollama run james` to use it
+
+### Rest
+
+Type `curl http>// localhost:11434api/generate -d "{
+  "model": "llama3.2",
+  "prompt":"Why is the sky blue?",
+  "stream": false # Necessary for clearer reuslt
+}`
+
+to get a REST result.\
+ollama api.md have more information about it
+
+TODO 1:10
