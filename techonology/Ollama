@@ -6,4 +6,9 @@ Arquitecture: Structure and goal of the model (LLMA means Large Language Model M
 Parameter: Size and bias used for the model to learn (in B size)
 Contex lenght: Amount of Token can process in a single input
 Embedding lenght: The amount of embeeding space it have for text interpretation
-Quantization
+Quantization: compress model in exchange of logic (in B)
+
+Library model, like codeGemma, is a collection of light model for variaty.\
+Visual model, like llava, can view and create visial content.
+
+make "modelFile.md" and star with "From <model>" to make a profile
